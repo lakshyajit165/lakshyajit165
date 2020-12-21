@@ -3,7 +3,7 @@
 ## I'm a Developer, Learner and a music lover!
 - 🔭 I’m currently working as a Full Stack Developer!
 - 🌱 I’m currently learning Algorithms along with Devops and Cloud!
-- ⚡ Fun fact: I love to play piano and watch thriller movies/series!
+- ⚡ Fun fact: I love to play the piano and watch thriller movies/series!
 
 ### Connect with me:
 

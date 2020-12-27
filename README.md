@@ -7,28 +7,37 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Elkay | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Elkay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Elkay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Elkay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+![Facebook](https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook)&nbsp;
+![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)&nbsp;
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)&nbsp;
+![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)&nbsp;
+
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg" />
-<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/angular.svg" />
-<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/typescript.svg" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
-<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/bootstrap.svg" />
-<img align="left" alt="SpringBoot" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/spring.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mongodb.svg" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />
-<img align="left" alt="Jasmine" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jasmine.svg" />
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Jasmine](https://img.shields.io/badge/-Jasmine-05122A?style=flat&logo=jasmine)&nbsp;
+![amazonaws](https://img.shields.io/badge/-AmazonAWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 
 <br />
 

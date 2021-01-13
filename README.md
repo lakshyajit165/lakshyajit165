@@ -7,10 +7,10 @@
 
 ### Connect with me:
 
-![Facebook](https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook)&nbsp;
+[![Medium](https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium)](https://medium.com/@lakshyajit165)&nbsp;
 [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/LakshyajitL)&nbsp;
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)&nbsp;
-![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/lakshyajit/)&nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/_c0de_r1der_/)&nbsp;
 
 
 <br />

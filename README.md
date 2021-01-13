@@ -8,7 +8,7 @@
 ### Connect with me:
 
 ![Facebook](https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook)&nbsp;
-![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)&nbsp;
+[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/LakshyajitL)&nbsp;
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)&nbsp;
 ![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)&nbsp;
 

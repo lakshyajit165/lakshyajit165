@@ -45,11 +45,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [FunWithAlgorithms — A web app to take notes and revise concepts of algorithms](https://medium.com/@lakshyajit165/funwithalgorithms-a-web-app-to-take-notes-and-revise-concepts-of-algorithms-92bc76311c22?source=rss-792ccd21180e------2)
 - [Microservice Architecture with Spring Boot](https://medium.com/@lakshyajit165/microservice-architecture-with-spring-boot-732d58b1c695?source=rss-792ccd21180e------2)
 - [PageFile in Windows 10 — A life saver (P.S. I still hate windows for programming)](https://medium.com/@lakshyajit165/pagefile-in-windows-10-a-life-saver-p-s-i-still-hate-windows-for-programming-2b583d50fb26?source=rss-792ccd21180e------2)
 - [The Riveting Tale of Docker Network Bridge & Docker Network Host](https://medium.com/swlh/the-riveting-tale-of-docker-network-bridge-docker-network-host-3a543403a357?source=rss-792ccd21180e------2)
 - [Deploying an Angular App to Netlify using Netlify CLI and Gitlab CI](https://medium.com/@lakshyajit165/deploying-an-angular-app-to-netlify-using-netlify-cli-and-gitlab-ci-313d9ff9180a?source=rss-792ccd21180e------2)
-- [PollsForYou — A simple polling app](https://medium.com/@lakshyajit165/pollsforyou-a-simple-polling-app-f7534dac4cb8?source=rss-792ccd21180e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---

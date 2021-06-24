@@ -49,6 +49,7 @@
 - [FunWithAlgorithms — A web app to take notes and revise concepts of algorithms](https://lakshyajit165.medium.com/funwithalgorithms-a-web-app-to-take-notes-and-revise-concepts-of-algorithms-92bc76311c22?source=rss-792ccd21180e------2)
 - [Microservice Architecture with Spring Boot](https://lakshyajit165.medium.com/microservice-architecture-with-spring-boot-732d58b1c695?source=rss-792ccd21180e------2)
 - [PageFile in Windows 10 — A life saver (P.S. I still hate windows for programming)](https://lakshyajit165.medium.com/pagefile-in-windows-10-a-life-saver-p-s-i-still-hate-windows-for-programming-2b583d50fb26?source=rss-792ccd21180e------2)
+- [The Riveting Tale of Docker Network Bridge & Docker Network Host](https://medium.com/swlh/the-riveting-tale-of-docker-network-bridge-docker-network-host-3a543403a357?source=rss-792ccd21180e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---

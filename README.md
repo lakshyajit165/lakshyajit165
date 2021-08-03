@@ -45,7 +45,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Cognito — Auth setup has never been more simple!](https://lakshyajit165.medium.com/aws-cognito-auth-setup-has-never-been-more-simple-f53fb170eeac?source=rss-792ccd21180e------2)
+- [AWS Cognito — Auth setup has never been more simple!](https://medium.com/swlh/aws-cognito-auth-setup-has-never-been-more-simple-f53fb170eeac?source=rss-792ccd21180e------2)
 - [Use Nginx as a Reverse Proxy for Containerized Node.js Microservices](https://javascript.plainenglish.io/using-nginx-as-a-reverse-proxy-for-containerized-node-js-microservices-e7c4800f05a1?source=rss-792ccd21180e------2)
 - [FunWithAlgorithms — A web app to take notes and revise concepts of algorithms](https://lakshyajit165.medium.com/funwithalgorithms-a-web-app-to-take-notes-and-revise-concepts-of-algorithms-92bc76311c22?source=rss-792ccd21180e------2)
 - [Microservice Architecture with Spring Boot](https://lakshyajit165.medium.com/microservice-architecture-with-spring-boot-732d58b1c695?source=rss-792ccd21180e------2)

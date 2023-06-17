@@ -38,6 +38,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Jasmine](https://img.shields.io/badge/-Jasmine-05122A?style=flat&logo=jasmine)&nbsp;
 ![amazonaws](https://img.shields.io/badge/-AmazonAWS-05122A?style=flat&logo=amazon-aws)&nbsp;
+![kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 
 <br />
 

@@ -50,7 +50,7 @@
 - [Rate Limiting in REST APIs &lpar;Using SpringBoot and Redis&rpar;](https://lakshyajit165.medium.com/rate-limiting-in-rest-apis-using-springboot-and-redis-135cd5cde754?source=rss-792ccd21180e------2)
 - [API Testing in Node.js — using Chai, Mocha and Github Actions](https://lakshyajit165.medium.com/api-testing-in-node-js-using-chai-mocha-and-github-actions-9dde037d735b?source=rss-792ccd21180e------2)
 - [AWS Cognito — Auth setup has never been more simple!](https://medium.com/swlh/aws-cognito-auth-setup-has-never-been-more-simple-f53fb170eeac?source=rss-792ccd21180e------2)
-- [Use Nginx as a Reverse Proxy for Containerized Node.js Microservices](https://lakshyajit165.medium.com/using-nginx-as-a-reverse-proxy-for-containerized-node-js-microservices-e7c4800f05a1?source=rss-792ccd21180e------2)
+- [Use Nginx as a Reverse Proxy for Containerized Node.js Microservices](https://javascript.plainenglish.io/using-nginx-as-a-reverse-proxy-for-containerized-node-js-microservices-e7c4800f05a1?source=rss-792ccd21180e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
